@@ -8150,6 +8150,7 @@ div.synchron-logo {
   text-align: center; }
 
 .under-news {
+<<<<<<< Updated upstream
   padding-bottom: 1em; }
   .under-news img {
     max-width: 300px; }
@@ -8166,6 +8167,34 @@ div.synchron-logo {
     max-width: 180px; }
   .under-news ul {
     padding-left: 20px; }
+=======
+  padding-bottom: 1em;
+}
+.under-news img {
+  max-width: 300px;
+}
+@media (max-width: 575.98px) {
+  .under-news img {
+    width: 100%;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .under-news img {
+    width: 60%;
+  }
+}
+@media (min-width: 768px) {
+  .under-news img {
+    width: 100%;
+  }
+}
+.under-news img#tetramax-logo {
+  max-width: 180px;
+}
+.under-news ul {
+  padding-left: 20px;
+}
+>>>>>>> Stashed changes
 
 .overview ul {
   padding-left: 1.5em; }
