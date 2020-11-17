@@ -1,0 +1,545 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Synchron 2020
+X-WR-TIMEZONE:UTC
+X-WR-CALDESC:Synchron 2020 workshop program
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+X-LIC-LOCATION:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T074500
+DTEND;TZID=UTC:20201126T080000
+DTSTAMP;TZID=UTC:20201126T074500
+UID:free-Opening-2020-11-26-07-45
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T080000
+DTEND;TZID=UTC:20201126T083000
+DTSTAMP;TZID=UTC:20201126T080000
+UID:The-LIsinopril-medical-prescription-in-HipHop
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The LIsinopril medical prescription in HipHop
+URL:http://synchron2020.inria.fr/abstracts.html#The-LIsinopril-medical-p
+ rescription-in-HipHop
+DESCRIPTION:Gérard Berry and Manuel Serrano (Collège de France and Inr
+ ia Sophia-Antipolis)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T083000
+DTEND;TZID=UTC:20201126T090000
+DTSTAMP;TZID=UTC:20201126T083000
+UID:Formal-Modelling-and-Verification-of-Rate-Adaptive-Pacemakers-for-Heart-Failure
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Formal Modelling and Verification of Rate Adaptive Pacemakers fo
+ r Heart Failure
+URL:http://synchron2020.inria.fr/abstracts.html#Formal-Modelling-and-Ver
+ ification-of-Rate-Adaptive-Pacemakers-for-Heart-Failure
+DESCRIPTION:Moon Soo Kim, Weiwei Ai, Partha S. Roop, Nathan Allen, Rohit
+  Ramchandra, and Julian Paton (U. Auckland)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T090000
+DTEND;TZID=UTC:20201126T093000
+DTSTAMP;TZID=UTC:20201126T090000
+UID:break-Coffee-2020-11-26-09-00
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T093000
+DTEND;TZID=UTC:20201126T100000
+DTSTAMP;TZID=UTC:20201126T093000
+UID:A-study-of-predictable-execution-models-implementation-for-industrial-data-flow-applications-on-a-multi-core-platform-with-shared-banked-memory
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A study of predictable execution models implementation for indus
+ trial data-flow applications on a multi-core platform with shared banked
+  memory
+URL:http://synchron2020.inria.fr/abstracts.html#A-study-of-predictable-e
+ xecution-models-implementation-for-industrial-data-flow-applications-on-
+ a-multi-core-platform-with-shared-banked-memory
+DESCRIPTION:Matheus Schuh, Claire Maiza, Joël Goossens, Pascal Raymond,
+  and Benoît Dupont de Dinechin (Univ. Grenoble Alpes, Univ. Libre de Br
+ uxelles, and Kalray SAS)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T100000
+DTEND;TZID=UTC:20201126T101500
+DTSTAMP;TZID=UTC:20201126T100000
+UID:break-Coffee-2020-11-26-10-00
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T101500
+DTEND;TZID=UTC:20201126T104500
+DTSTAMP;TZID=UTC:20201126T101500
+UID:Improving-the-Scalability-of-Multimode-DAE-Structural-Analysis-by-using-Reduced-Block-Triangular-Forms
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Improving the Scalability of Multimode DAE Structural Analysis b
+ y using Reduced Block Triangular Forms
+URL:http://synchron2020.inria.fr/abstracts.html#Improving-the-Scalabilit
+ y-of-Multimode-DAE-Structural-Analysis-by-using-Reduced-Block-Triangular
+ -Forms
+DESCRIPTION:Joan Thibault, Benoit Caillaud, and Mathias Mallandain (Inri
+ a Rennes)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T104500
+DTEND;TZID=UTC:20201126T111500
+DTSTAMP;TZID=UTC:20201126T104500
+UID:Implementing-true-separate-compilation---the-Blech-module-system
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Implementing true separate compilation - the Blech module system
+URL:http://synchron2020.inria.fr/abstracts.html#Implementing-true-separa
+ te-compilation---the-Blech-module-system
+DESCRIPTION:Friedrich Gretz and Franz-Josef Grosch (Bosch)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T111500
+DTEND;TZID=UTC:20201126T121500
+DTSTAMP;TZID=UTC:20201126T111500
+UID:break-Lunch-2020-11-26-11-15
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T121500
+DTEND;TZID=UTC:20201126T134500
+DTSTAMP;TZID=UTC:20201126T121500
+UID:free-Discussion-2020-11-26-12-15
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Discussion
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T134500
+DTEND;TZID=UTC:20201126T141500
+DTSTAMP;TZID=UTC:20201126T134500
+UID:Normalizing-Lustre-in-Coq
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Normalizing Lustre in Coq
+URL:http://synchron2020.inria.fr/abstracts.html#Normalizing-Lustre-in-Co
+ q
+DESCRIPTION:Timothy Bourke, Paul Jeanmaire, Basile Pesin, and Marc Pouze
+ t (Inria Paris and ENS)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T141500
+DTEND;TZID=UTC:20201126T144500
+DTSTAMP;TZID=UTC:20201126T141500
+UID:Reactive-Probabilistic-Programming-Semantics-with-Mixed-Nondeterministic/Probabilistic-Automata
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reactive Probabilistic Programming Semantics with Mixed Nondeter
+ ministic/Probabilistic Automata
+URL:http://synchron2020.inria.fr/abstracts.html#Reactive-Probabilistic-P
+ rogramming-Semantics-with-Mixed-Nondeterministic/Probabilistic-Automata
+DESCRIPTION:Albert Benveniste and Jean-Baptiste Raclet (Inria Rennes)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T144500
+DTEND;TZID=UTC:20201126T150000
+DTSTAMP;TZID=UTC:20201126T144500
+UID:break-Coffee-2020-11-26-14-45
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T150000
+DTEND;TZID=UTC:20201126T153000
+DTSTAMP;TZID=UTC:20201126T150000
+UID:Smoothly-translating-synchronous-languages-to-imperative-code-with-the-Semsil-intermediate-language
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Smoothly translating synchronous languages to imperative code wi
+ th the Semsil intermediate language
+URL:http://synchron2020.inria.fr/abstracts.html#Smoothly-translating-syn
+ chronous-languages-to-imperative-code-with-the-Semsil-intermediate-langu
+ age
+DESCRIPTION:Jean-Louis Colaço, Baptiste Pauget, and Marc Pouzet (ANSYS,
+  ENS, and Inria)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T153000
+DTEND;TZID=UTC:20201126T160000
+DTSTAMP;TZID=UTC:20201126T153000
+UID:Interfacing-a-synchronous-language-with-Python-and-Jupyter-Notebooks
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interfacing a synchronous language with Python and Jupyter Noteb
+ ooks
+URL:http://synchron2020.inria.fr/abstracts.html#Interfacing-a-synchronou
+ s-language-with-Python-and-Jupyter-Notebooks
+DESCRIPTION:Guillaume Baudart and Louis Mandel (Inria Paris and IBM Rese
+ arch)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T160000
+DTEND;TZID=UTC:20201126T161500
+DTSTAMP;TZID=UTC:20201126T160000
+UID:break-Coffee-2020-11-26-16-00
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201126T161500
+DTEND;TZID=UTC:20201126T164500
+DTSTAMP;TZID=UTC:20201126T161500
+UID:The-Sparse-Synchronous-Model:-Yet-Another-Synchronous-Language
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Sparse Synchronous Model: Yet Another Synchronous Language
+URL:http://synchron2020.inria.fr/abstracts.html#The-Sparse-Synchronous-M
+ odel:-Yet-Another-Synchronous-Language
+DESCRIPTION:Stephen Edwards (Columbia University)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T074500
+DTEND;TZID=UTC:20201127T080000
+DTSTAMP;TZID=UTC:20201127T074500
+UID:break-Opening-2020-11-27-07-45
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T080000
+DTEND;TZID=UTC:20201127T083000
+DTSTAMP;TZID=UTC:20201127T080000
+UID:Update-on-the-adoption-of-synchronous-languages-at-gh.st
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Update on the adoption of synchronous languages at gh.st
+URL:http://synchron2020.inria.fr/abstracts.html#Update-on-the-adoption-o
+ f-synchronous-languages-at-gh.st
+DESCRIPTION:Kai Englehardt (gh.st)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T083000
+DTEND;TZID=UTC:20201127T090000
+DTSTAMP;TZID=UTC:20201127T083000
+UID:Exploring-Compositional-Neural-Networks-for-Real-time-Applications
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exploring Compositional Neural Networks for Real-time Applicatio
+ ns
+URL:http://synchron2020.inria.fr/abstracts.html#Exploring-Compositional-
+ Neural-Networks-for-Real-time-Applications
+DESCRIPTION:Sobhan Chatterjee, Nathan Allen, Nitish Patel, and Partha S.
+  Roop (U. Auckland)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T090000
+DTEND;TZID=UTC:20201127T093000
+DTSTAMP;TZID=UTC:20201127T090000
+UID:break-Coffee-2020-11-27-09-00
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T093000
+DTEND;TZID=UTC:20201127T100000
+DTSTAMP;TZID=UTC:20201127T093000
+UID:Diagrammatic-semantics-for-digital-circuits
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Diagrammatic semantics for digital circuits
+URL:http://synchron2020.inria.fr/abstracts.html#Diagrammatic-semantics-f
+ or-digital-circuits
+DESCRIPTION:Dan Ghica and George Kaye (University of Birmingham)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T100000
+DTEND;TZID=UTC:20201127T103000
+DTSTAMP;TZID=UTC:20201127T100000
+UID:Modeling-and-design-of-neural-networks-architectures-for-neural-hybridation-based-on-synchronous-approaches
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Modeling and design of neural networks architectures for neural 
+ hybridation based on synchronous approaches
+URL:http://synchron2020.inria.fr/abstracts.html#Modeling-and-design-of-n
+ eural-networks-architectures-for-neural-hybridation-based-on-synchronous
+ -approaches
+DESCRIPTION:Marino Rasamuel and Daniel Gaffe  (Univ. Côte d'Azur)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T103000
+DTEND;TZID=UTC:20201127T104500
+DTSTAMP;TZID=UTC:20201127T103000
+UID:break-Coffee-2020-11-27-10-30
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T104500
+DTEND;TZID=UTC:20201127T111500
+DTSTAMP;TZID=UTC:20201127T104500
+UID:A-reactive-semantics-for-a-higher-order-language-with-integer-clocks
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A reactive semantics for a higher-order language with integer cl
+ ocks
+URL:http://synchron2020.inria.fr/abstracts.html#A-reactive-semantics-for
+ -a-higher-order-language-with-integer-clocks
+DESCRIPTION:Ada Vienot (IRIF, Université de Paris)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T111500
+DTEND;TZID=UTC:20201127T121500
+DTSTAMP;TZID=UTC:20201127T111500
+UID:break-Lunch-2020-11-27-11-15
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T121500
+DTEND;TZID=UTC:20201127T131500
+DTSTAMP;TZID=UTC:20201127T121500
+UID:free-Discussion-2020-11-27-12-15
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Discussion
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T131500
+DTEND;TZID=UTC:20201127T134500
+DTSTAMP;TZID=UTC:20201127T131500
+UID:Usuba--high-throughput-software-circuits-for-cryptography
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Usuba, high-throughput software circuits for cryptography
+URL:http://synchron2020.inria.fr/abstracts.html#Usuba--high-throughput-s
+ oftware-circuits-for-cryptography
+DESCRIPTION:Pierre-Évariste Dagand and Darius Mercadier  (Sorbonne Univ
+ ersity)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T134500
+DTEND;TZID=UTC:20201127T141500
+DTSTAMP;TZID=UTC:20201127T134500
+UID:An-Overview-of-the-Synchronous-Language-Céu
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:An Overview of the Synchronous Language Céu
+URL:http://synchron2020.inria.fr/abstracts.html#An-Overview-of-the-Synch
+ ronous-Language-Céu
+DESCRIPTION:Francisco Sant'anna (Rio de Janeiro State University)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T141500
+DTEND;TZID=UTC:20201127T143000
+DTSTAMP;TZID=UTC:20201127T141500
+UID:break-Coffee-2020-11-27-14-15
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T143000
+DTEND;TZID=UTC:20201127T150000
+DTSTAMP;TZID=UTC:20201127T143000
+UID:A-Hard-Real-Time-Demonstrator-for-Dynamic-Ticks-and-Timed-SCCharts
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Hard Real Time Demonstrator for Dynamic Ticks and Timed SCChar
+ ts
+URL:http://synchron2020.inria.fr/abstracts.html#A-Hard-Real-Time-Demonst
+ rator-for-Dynamic-Ticks-and-Timed-SCCharts
+DESCRIPTION:Andreas Boysen, Alexander Schulz-Rosengarten, and Reinhard v
+ on Hanxleden (University of Kiel)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T150000
+DTEND;TZID=UTC:20201127T153000
+DTSTAMP;TZID=UTC:20201127T150000
+UID:Towards-verification-of-synchronous-hybrid-programs
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Towards verification of synchronous hybrid programs
+URL:http://synchron2020.inria.fr/abstracts.html#Towards-verification-of-
+ synchronous-hybrid-programs
+DESCRIPTION:Jean-Baptiste Jeannin  (U. Michigan)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T153000
+DTEND;TZID=UTC:20201127T154500
+DTSTAMP;TZID=UTC:20201127T153000
+UID:break-Coffee-2020-11-27-15-30
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T154500
+DTEND;TZID=UTC:20201127T161500
+DTSTAMP;TZID=UTC:20201127T154500
+UID:On-the-efficiency-cost-of-common-isolation-properties-in-synchronous-and-real-time-systems-implementation
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:On the efficiency cost of common isolation properties in synchro
+ nous and real-time systems implementation
+URL:http://synchron2020.inria.fr/abstracts.html#On-the-efficiency-cost-o
+ f-common-isolation-properties-in-synchronous-and-real-time-systems-imple
+ mentation
+DESCRIPTION:Dumitru Potop-Butucaru (Inria Paris)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T161500
+DTEND;TZID=UTC:20201127T164500
+DTSTAMP;TZID=UTC:20201127T161500
+UID:Making-Mainstream-Programming-Languages-Deterministic-Again
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Making Mainstream Programming Languages Deterministic Again
+URL:http://synchron2020.inria.fr/abstracts.html#Making-Mainstream-Progra
+ mming-Languages-Deterministic-Again
+DESCRIPTION:Edward A. Lee, Marten Lohstroh, and Alexander Schulz-Rosenga
+ rten (UC Berkeley and University of Kiel)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20201127T164500
+DTEND;TZID=UTC:20201127T170000
+DTSTAMP;TZID=UTC:20201127T164500
+UID:break-Closing-2020-11-27-16-45
+LOCATION:online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Closing
+URL:
+DESCRIPTION:
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
