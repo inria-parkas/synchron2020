@@ -242,8 +242,8 @@ SUMMARY:Interfacing a synchronous language with Python and Jupyter Noteb
  ooks
 URL:http://synchron2020.inria.fr/abstracts.html#Interfacing-a-synchronou
  s-language-with-Python-and-Jupyter-Notebooks
-DESCRIPTION:Guillaume Baudart and Louis Mandel (Inria Paris and IBM Rese
- arch)
+DESCRIPTION:Guillaume Baudart, Adrian Guatto, and Louis Mandel (Inria Pa
+ ris and IBM Research)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
