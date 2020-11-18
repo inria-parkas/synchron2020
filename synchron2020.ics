@@ -242,8 +242,8 @@ SUMMARY:Interfacing a synchronous language with Python and Jupyter Noteb
  ooks
 URL:http://synchron2020.inria.fr/abstracts.html#Interfacing-a-synchronou
  s-language-with-Python-and-Jupyter-Notebooks
-DESCRIPTION:Guillaume Baudart, Adrian Guatto, and Louis Mandel (Inria Pa
- ris and IBM Research)
+DESCRIPTION:Guillaume Baudart, Adrian Guatto, and Louis Mandel (IBM Rese
+ arch, Inria Paris, and IRIF - Université de Paris)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -384,7 +384,7 @@ SUMMARY:A reactive semantics for a higher-order language with integer cl
  ocks
 URL:http://synchron2020.inria.fr/abstracts.html#A-reactive-semantics-for
  -a-higher-order-language-with-integer-clocks
-DESCRIPTION:Ada Vienot (IRIF, Université de Paris)
+DESCRIPTION:Ada Vienot (IRIF - Université de Paris)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
