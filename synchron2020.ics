@@ -41,15 +41,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20201126T080000
 DTEND;TZID=UTC:20201126T083000
 DTSTAMP;TZID=UTC:20201126T080000
-UID:The-LIsinopril-medical-prescription-in-HipHop
+UID:Update-on-the-adoption-of-synchronous-languages-at-gh.st
 LOCATION:online
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:The LIsinopril medical prescription in HipHop
-URL:http://synchron2020.inria.fr/abstracts.html#The-LIsinopril-medical-p
- rescription-in-HipHop
-DESCRIPTION:Gérard Berry and Manuel Serrano (Collège de France and Inr
- ia Sophia-Antipolis)
+SUMMARY:Update on the adoption of synchronous languages at gh.st
+URL:http://synchron2020.inria.fr/abstracts.html#Update-on-the-adoption-o
+ f-synchronous-languages-at-gh.st
+DESCRIPTION:Kai Englehardt (gh.st)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -290,14 +289,15 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20201127T080000
 DTEND;TZID=UTC:20201127T083000
 DTSTAMP;TZID=UTC:20201127T080000
-UID:Update-on-the-adoption-of-synchronous-languages-at-gh.st
+UID:The-LIsinopril-medical-prescription-in-HipHop
 LOCATION:online
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:Update on the adoption of synchronous languages at gh.st
-URL:http://synchron2020.inria.fr/abstracts.html#Update-on-the-adoption-o
- f-synchronous-languages-at-gh.st
-DESCRIPTION:Kai Englehardt (gh.st)
+SUMMARY:The LIsinopril medical prescription in HipHop
+URL:http://synchron2020.inria.fr/abstracts.html#The-LIsinopril-medical-p
+ rescription-in-HipHop
+DESCRIPTION:Gérard Berry and Manuel Serrano (Collège de France and Inr
+ ia Sophia-Antipolis)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
