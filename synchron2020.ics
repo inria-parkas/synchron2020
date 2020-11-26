@@ -525,8 +525,9 @@ STATUS:CONFIRMED
 SUMMARY:Making Mainstream Programming Languages Deterministic Again
 URL:http://synchron2020.inria.fr/abstracts.html#Making-Mainstream-Progra
  mming-Languages-Deterministic-Again
-DESCRIPTION:Edward A. Lee, Marten Lohstroh, and Alexander Schulz-Rosenga
- rten (UC Berkeley and University of Kiel)
+DESCRIPTION:Edward A. Lee, Soroush Bateni, Shaokai Lin, Marten Lohstroh,
+  Christian Menard, and Alexander Schulz-Rosengarten (UC Berkeley, UT Dal
+ las, TU Dresden, and University of Kiel)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
